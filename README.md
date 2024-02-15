@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm siddhi N. sakharkar</h1>
 <h3 align="center">Eager to Learn about Technology......</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhisakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="siddhisakharkar" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhisakharkar" alt="siddhisakharkar" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, machine learning, SQL**
+- 🌱 I’m currently learning **machine learning, SQL**
 
-- 💬 Ask me about **HTML , CSS , Python, SQL, DataScience, C#**
+- 💬 Ask me about **HTML , CSS , Python, javascriplt,java**
 
 - 📫 How to reach me **nareshsakharkar85@gmail.com**
 
@@ -25,19 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhisakharkar&show_icons=true&locale=en" alt="siddhisakharkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhisakharkar&" alt="siddhisakharkar" /></p>
-### Hi there 👋
 
-<!--
-**Siddhisakharkar/Siddhisakharkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
