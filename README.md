@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript, machine learning, SQL**
 
-- 💬 Ask me about **HTML , CSS , Python**
+- 💬 Ask me about **HTML , CSS , Python, SQL, DataScience, C#**
 
 - 📫 How to reach me **nareshsakharkar85@gmail.com**
 
